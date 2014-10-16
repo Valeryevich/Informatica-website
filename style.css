@@ -1,0 +1,8 @@
+/* This is the CSS document used on all my pages. The first part is dedicated to the menu */
+
+/* We start by resetting all list style's. */
+#menu, #menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
